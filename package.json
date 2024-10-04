@@ -11,6 +11,6 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "psforce": "^1.1.0"
+    "psforce": "^1.2.1"
   }
 }
